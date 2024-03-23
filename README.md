@@ -32,7 +32,7 @@ A seguir, o detalhe de como fazer cada passo.
 
 # Passo a passo
 
-#### Crie uma conta gratuita em astra.datastax.com <a name="3"></a>
+### Crie uma conta gratuita em astra.datastax.com <a name="3"></a>
 
 Criar uma conta gratuita e um banco de dados vetorial no Astra é muito simples. Além disso, você ganhará **US$ 300 por ano** para utilizar em seus projetos.
 
@@ -47,7 +47,7 @@ Informe o nome do seu banco de dados, provedor de nuvem (AWS, Google Cloud Provi
 
 Pronto! Em cerca de 3 minutos o banco estará disponível para seguir. Enquanto isso, vamos cuidar do código!
 
-#### Clone o repositório <a name="1"></a>
+### Clone o repositório <a name="1"></a>
 
 O código deste app está disponível neste repositório.
 
@@ -55,14 +55,14 @@ O código deste app está disponível neste repositório.
 git clone https://github.com/smatiolids/datastax-tdc-summit.git
 ```
 
-#### Instale as dependências <a name="2"></a>
+### Instale as dependências <a name="2"></a>
 
 Com o Python instalado, instale as bibliotecas
 
 ```
 pip3 install -r requirements.txt
 ```
-#### Defina as variáveis no arquivo settings.yaml <a name="4"></a>
+### Defina as variáveis no arquivo settings.yaml <a name="4"></a>
 
 Para que o aplicativo se conecte ao Astra e também à OpenAI, é necessário configurar as variáveis no arquivo `.streamlit/secrets.toml`
 
@@ -94,7 +94,7 @@ No Astra Dashboard, acesse seu BD e logo na primeira tela, no campo
 
 
 
-#### Execute o app<a name="5"></a>
+### Execute o app<a name="5"></a>
 
 Para executar o app, execute:
 
@@ -112,7 +112,7 @@ Informe o usuário e senha:
 username: `datastax`
 password: `astra`
 
-#### Carregue arquivos pdf para utilizar como base de conhecimento<a name="6"></a>
+### Carregue arquivos pdf para utilizar como base de conhecimento<a name="6"></a>
 
 Na tela inicial, à esquerda, utilize o botão `Browse files` para selecionar os arquivos que estão no diretório `pdf`.
 
@@ -124,7 +124,7 @@ Confira no Astra os dados gravados.
 
 ![Tela de login](./assets/step7-data.png)
 
-#### Faça perguntas sobre o conteúdo <a name="7"></a>
+### Faça perguntas sobre o conteúdo <a name="7"></a>
 
 Pronto, com seus dados carregados, pode fazer perguntas sobre o Astra, como:
 
@@ -136,7 +136,7 @@ Pronto, com seus dados carregados, pode fazer perguntas sobre o Astra, como:
 
 Pronto, você acabou de rodar uma aplicaçãoque usa dados personalizados e IA Generativa!
 
-# Preencha o form com seus dados<a name="8"></a>
+## Preencha o form com seus dados<a name="8"></a>
 
 
 Envie seus dados e o Database ID do Astra e envie aqui: https://forms.gle/NgN5bSJq8jgxioMG6
