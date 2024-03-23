@@ -25,7 +25,7 @@ Ao completar este exercício, além do conhecimento e dos brindes, você também
 - [Execute o app](#5)
 - [Carregue arquivos pdf para utilizar como base de conhecimento](#6)
 - [Faça perguntas sobre o conteúdo](#6)
-- [Envie a evidência de execução pelo form](#7)
+- [Preencha o form](#7)
 - Passe no nosso estande para dizer o que achou e retirar seu brinde!
 
 A seguir, o detalhe de como fazer cada passo.
@@ -136,10 +136,11 @@ Pronto, com seus dados carregados, pode fazer perguntas sobre o Astra, como:
 
 Pronto, você acabou de rodar uma aplicaçãoque usa dados personalizados e IA Generativa!
 
-#### Envie a evidência de execução pelo form <a name="8"></a>
+# Preencha o form com seus dados<a name="8"></a>
 
 
-Tire um screenshot do seu DB no Astra e envie aqui: https://forms.gle/NgN5bSJq8jgxioMG6
+Envie seus dados e o Database ID do Astra e envie aqui: https://forms.gle/NgN5bSJq8jgxioMG6
 
 Depois, passe no nosso estande para dizer o que achou, se ficou alguma dúvida e tal... 
 
+Obrigado por participar!
