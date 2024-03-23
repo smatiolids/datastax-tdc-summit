@@ -2,9 +2,11 @@
 
 O DataStax Astra é um banco NoSQL com suporte a Vector Search para alta escala, volume e performance.
 
-Ao completar este exercício, além dos brindes, você também receberá um badge para compartilhar em suas redes sociais.
+Ao completar este exercício, além do conhecimento e dos brindes, você também receberá um badge para compartilhar em suas redes sociais.
 
-## Como ganhar o brinde da DataStax
+![Badge](./assets/rag-badge.png)
+
+## Como ganhar o kit da DataStax?
 
 É bem simples. Basta executar este código e enviar um screenshot para o formulário abaixo.
 
