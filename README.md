@@ -8,7 +8,7 @@ Ao completar este exercício, além do conhecimento e dos brindes, você também
 
 ## Como ganhar o kit da DataStax?
 
-É bem simples. Basta executar este código e enviar um screenshot para o formulário abaixo.
+É bem simples. Basta executar este código e preencher o formulário abaixo.
 
 ### O que você precisará
 
@@ -144,3 +144,9 @@ Envie seus dados e o Database ID do Astra e envie aqui: https://forms.gle/NgN5bS
 Depois, passe no nosso estande para dizer o que achou, se ficou alguma dúvida e tal... 
 
 Obrigado por participar!
+
+
+# Contatos
+
+Samuel Matioli - samuel.matioli@datastax.com
+Nicole Caetano - nicole.caetano@datastax.com
