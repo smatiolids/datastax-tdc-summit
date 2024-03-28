@@ -139,7 +139,7 @@ Pronto, você acabou de rodar uma aplicaçãoque usa dados personalizados e IA G
 ## Preencha o form com seus dados<a name="8"></a>
 
 
-Envie seus dados e o Database ID do Astra e envie aqui: https://forms.gle/NgN5bSJq8jgxioMG6
+Envie seus dados e o Database ID do Astra e envie aqui: https://forms.gle/Se15xCiBoameYDoJ9
 
 Depois, passe no nosso estande para dizer o que achou, se ficou alguma dúvida e tal... 
 
